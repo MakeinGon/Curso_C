@@ -1,0 +1,7 @@
+********BIBLIOTECA********
+Los-Valles
+Codigo: 12454------->Direccion:Av.Las Americas
+------>Titulo:Los Heraldos Negros------>Autor: Cesar Vallejo------>Codigo1435
+
+DATOS DEL USUARIO:
+Codigo: 2141--------->DNI: 22408574------->Apellidos: Mendoza------->Nombre: Jorge------->Correo: felix.rar@gmail.com-------->Telefono: 998-985-632--------->Direccion: Av.Las Americas

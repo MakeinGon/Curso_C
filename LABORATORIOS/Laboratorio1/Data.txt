@@ -1,0 +1,10 @@
+Estudiante est1("2023000001", "juanito.perez@unas.edu.pe", "perez", "juanito", "44444444");
+    Estudiante est2("20220456", "jose.caldas@unas.edu.pe", " jose", "caldas", "234567");
+    Estudiante est3("20223457", "carlos.solar@unas.edu.pe", " carlos", "solar", "345678");
+    Estudiante est4("20223412", "marco.palacios@unas.edu.pe", "marco", "palacios", "3457177");
+
+    // Estudiantes de ZOOTECNIA
+    Estudiante est5("2020007", "manuel.lopez@unas.edu.pe", "lopez", "manuel", "20458771");
+    Estudiante est6("2000485", "therry.exaltacion@unas.edu.pe", "exaltacion", "therry", "2024575");
+    Estudiante est7("20220050", "krystal.exaltacion@unas.edu.pe", "exaltacion", "krystal", "87541558");
+    Estudiante est8("2022002", "jose.martinez@unas.edu.pe", "mantinez", "jose", "73463283");

@@ -1,0 +1,44 @@
+---------------------------------------------------------------------------------------
+Nombre del departamento: Departamento de profesionales del Peru---------->Siglas: DPP
+---------------------------------------------------------------------------------------
+Datos de los empleados: 
+ ----------------------------------------------------------------------------------------------------------------------------
+Empleado [1]: 
+Nombre: Juan------->Apellido:Perez------->Dni: 22997412------->Fecha de nacimiento:30 de Mayo de 1990------->Edad: 33
+Puesto: Gerente----->Sueldo:7000.000000------->Años trabajando: 10
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [2]: 
+Nombre: Maria------->Apellido:Lopez------->Dni: 228874------->Fecha de nacimiento:2 de Septiembre de 1980------->Edad: 43
+Puesto: Analista----->Sueldo:950.000000------->Años trabajando: 5
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [3]: 
+Nombre: Jose------->Apellido:Benavides------->Dni: 2244578------->Fecha de nacimiento:5 de Octubre------->Edad: 28
+Puesto: Investigador----->Sueldo:5000.000000------->Años trabajando: 8
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [4]: 
+Nombre: Pepito------->Apellido:acharte------->Dni: 254754------->Fecha de nacimiento:25 de Enero de 1997------->Edad: 26
+Puesto: Contador----->Sueldo:5412.000000------->Años trabajando: 4
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [5]: 
+Nombre: Jose------->Apellido:Ugarte------->Dni: 4545421------->Fecha de nacimiento:20 de Agosto de 1985------->Edad: 38
+Puesto: Abogado----->Sueldo:4121.000000------->Años trabajando: 8
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [6]: 
+Nombre: Jose------->Apellido:Herrera------->Dni: 2245785------->Fecha de nacimiento:15 de Marzo de 1990------->Edad: 33
+Puesto: Secretaria----->Sueldo:4000.000000------->Años trabajando: 2
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [7]: 
+Nombre: Angel------->Apellido:Benitez------->Dni: 2257845------->Fecha de nacimiento:1 de Enero de 2000------->Edad: 23
+Puesto: Ingeniero----->Sueldo:3000.000000------->Años trabajando: 3
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [8]: 
+Nombre: Dulce------->Apellido:Coz------->Dni: 452114------->Fecha de nacimiento:4 de Diciembre de 1995------->Edad: 28
+Puesto: Minero----->Sueldo:5000.000000------->Años trabajando: 5
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [9]: 
+Nombre: Felipe------->Apellido:Gonzales------->Dni: 224785------->Fecha de nacimiento:2 de Febrero de 1970------->Edad: 53
+Puesto: Economista----->Sueldo:1000.000000------->Años trabajando: 6
+----------------------------------------------------------------------------------------------------------------------------
+Empleado [10]: 
+Nombre: Sofia------->Apellido:hernandez------->Dni: 214653------->Fecha de nacimiento:6 de Junio de 1979------->Edad: 44
+Puesto: Enfermera----->Sueldo:5500.000000------->Años trabajando: 7

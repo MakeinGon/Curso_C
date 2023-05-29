@@ -1,0 +1,6 @@
+**********VENTAS RELIZADAS**********
+-Llanta	 	 Cantidad:100	 Vendidos:22	 Quedan:78		Precio:50	 Total: S/.1100
+-Bujia	 	 Cantidad:40	 Vendidos:14	 Quedan:26		Precio:100	 Total: S/.1400
+-Aceite	 	 Cantidad:15	 Vendidos:10	 Quedan:5		Precio:200	 Total: S/.2000
+-Embragues	 	 Cantidad:200	 Vendidos:35	 Quedan:165		Precio:150	 Total: S/.5250
+-Baterias	 	 Cantidad:50	 Vendidos:2	 Quedan:48		Precio:140	 Total: S/.280

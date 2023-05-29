@@ -1,0 +1,17 @@
+******STOCK DE PRODUCTOS******
+----------------------------
+MOTOS
+----------------------------
+Moto:Honda		Fecha de registro:01/2/21		Cantidad: 50		Categoria: 4
+Moto:Yamaha		Fecha de registro:05/25/19		Cantidad: 50		Categoria: 10
+Moto:Velorex		Fecha de registro:04/24/20		Cantidad: 50		Categoria: 1
+Moto:Italika		Fecha de registro:02/2/20		Cantidad: 50		Categoria: 2
+Moto:Susuki		Fecha de registro:10/12/21		Cantidad: 50		Categoria: 10
+----------------------------
+REPUESTOS
+----------------------------
+Repuesto:Llanta		Fecha de registro:04/05/20		Cantidad:100		Categoria:2
+Repuesto:Bujia		Fecha de registro:03/10/21		Cantidad:40		Categoria:1
+Repuesto:Aceite		Fecha de registro:06/25/22		Cantidad:15		Categoria:3
+Repuesto:Embragues		Fecha de registro:07/10/22		Cantidad:200		Categoria:2
+Repuesto:Baterias		Fecha de registro:01/12/22		Cantidad:50		Categoria:6

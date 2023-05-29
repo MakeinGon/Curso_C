@@ -1,0 +1,13 @@
+**********CLIENTES COMUNES**********
+1.Felipe Reyes		 Cantidad de compras: 20		 Fecha de compra:04/10/22
+2.Daniel Fernandez		 Cantidad de compras: 50		 Fecha de compra:01/04/22
+3.Sara Gomez		 Cantidad de compras: 25		 Fecha de compra:12/11/21
+4.Laura Lopez		 Cantidad de compras: 6		 Fecha de compra:05/20/22
+5.Pedro Ramirez		 Cantidad de compras: 12		 Fecha de compra:03/15/22
+
+**********CLIENTES con mayores compras**********
+1.Daniel Fernandez		 Cantidad de compras: 50		 Fecha de compra:01/04/22
+2.Sara Gomez		 Cantidad de compras: 25		 Fecha de compra:12/11/21
+3.Felipe Reyes		 Cantidad de compras: 20		 Fecha de compra:04/10/22
+4.Pedro Ramirez		 Cantidad de compras: 12		 Fecha de compra:03/15/22
+5.Laura Lopez		 Cantidad de compras: 6		 Fecha de compra:05/20/22

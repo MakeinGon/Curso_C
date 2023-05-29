@@ -1,0 +1,15 @@
+Datos de los estudiantes: 
+----------------------------------------------------------------
+001  Facultad de Ingenieria en Informatica y Sistemas FIIS
+----------------------------------------------------------------
+Codigo estudiante: 2023000001------>Correo: juanito.perez@unas.edu.pe------>Apellido:perez------>Nombre:juanito------>Dni:44444444
+Codigo estudiante: 20220456------>Correo: jose.caldas@unas.edu.pe------>Apellido: jose------>Nombre:caldas------>Dni:234567
+Codigo estudiante: 20223457------>Correo: carlos.solar@unas.edu.pe------>Apellido: carlos------>Nombre:solar------>Dni:345678
+Codigo estudiante: 20223412------>Correo: marco.palacios@unas.edu.pe------>Apellido:marco------>Nombre:palacios------>Dni:3457177
+----------------------------------------------------------------
+002  Facultad de Zootecnia FZ
+----------------------------------------------------------------
+Codigo estudiante: 2020007------>Correo: manuel.lopez@unas.edu.pe------>Apellido:lopez------>Nombre:manuel------>Dni:20458771
+Codigo estudiante: 2000485------>Correo: therry.exaltacion@unas.edu.pe------>Apellido:exaltacion------>Nombre:therry------>Dni:2024575
+Codigo estudiante: 20220050------>Correo: krystal.exaltacion@unas.edu.pe------>Apellido:exaltacion------>Nombre:krystal------>Dni:87541558
+Codigo estudiante: 2022002------>Correo: jose.martinez@unas.edu.pe------>Apellido:mantinez------>Nombre:jose------>Dni:73463283

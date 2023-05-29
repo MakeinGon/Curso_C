@@ -1,0 +1,6 @@
+**********Servicios del taller y el tiempo que se demora en relizarse por el empleado**********
+1.Jose Rojas		Cargo:Cambio de llanta		Tiempo:1 hora
+2.Luis Sifuentes		Cargo:Electricista		Tiempo:30 minutos
+3.Carlos Gonzalez		Cargo:Mecanico		Tiempo:2 horas
+4.Ana Vazques		Cargo:Tecnicos de repuestos		Tiempo:45 minutos
+5.Jose Sanchez		Cargo:Pintor		Tiempo:4 hora

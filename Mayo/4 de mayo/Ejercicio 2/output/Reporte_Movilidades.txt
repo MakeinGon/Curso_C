@@ -1,0 +1,71 @@
+-----------------------
+Tienda:TOKIO
+-----------------------
+MOVILIDADES DE LA TIENDA:
+-------------------
+|  AUTOMOVILES    |
+-------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[1]: 
+Color: Rojo------->Marca: Toyota
+Cilindrica de motor: 1000--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[2]: 
+Color: Azul------->Marca: Chevrolet
+Cilindrica de motor: 850--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: En proceso
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[3]: 
+Color: Negro------->Marca: Hyundai
+Cilindrica de motor: 2500--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[4]: 
+Color: Amarillo------->Marca: Honda
+Cilindrica de motor: 1100--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[5]: 
+Color: Verde------->Marca: Tesla
+Cilindrica de motor: 1900--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Tramite
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[6]: 
+Color: Gris------->Marca: Nissan
+Cilindrica de motor: 1500--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[7]: 
+Color: Morado------->Marca: BMW
+Cilindrica de motor: 2800--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[8]: 
+Color: Naranja------->Marca: Mercedez-Benz
+Cilindrica de motor: 4500--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[9]: 
+Color: Plomo------->Marca: Audi
+Cilindrica de motor: 900--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Automovil[10]: 
+Color: Plateado------->Marca: Subaru
+Cilindrica de motor: 1800--------->N° de asientos: 4--------->N° de ruedas: 4--------->N° de puertas:4-------->Certificacion de seguridad: Activa
+
+-------------------
+|  MOTOCICLETAS   |
+-------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Motocicleta[1]: 
+Color: Azul------->Marca: Honda
+Cilindrica de moto: 400--------->N° de asientos: 2--------->N° de ruedas: 2--------->N° de puertas:0-------->Certificacion de seguridad: En tramite
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Motocicleta[2]: 
+Color: Negro------->Marca: Yamaha
+Cilindrica de moto: 150--------->N° de asientos: 2--------->N° de ruedas: 2--------->N° de puertas:0-------->Certificacion de seguridad: Activa
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Motocicleta[3]: 
+Color: Motado------->Marca: Velorex
+Cilindrica de moto: 120--------->N° de asientos: 2--------->N° de ruedas: 2--------->N° de puertas:0-------->Certificacion de seguridad: En proceso
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Motocicleta[4]: 
+Color: Plateado------->Marca: Quinqui
+Cilindrica de moto: 500--------->N° de asientos: 2--------->N° de ruedas: 2--------->N° de puertas:0-------->Certificacion de seguridad: En tramite
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Motocicleta[5]: 
+Color: Rojo------->Marca: Nissan
+Cilindrica de moto: 700--------->N° de asientos: 2--------->N° de ruedas: 2--------->N° de puertas:0-------->Certificacion de seguridad: En tramite
